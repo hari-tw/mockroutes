@@ -1,0 +1,15 @@
+{
+  "name": "hi5",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "~3.4.8",
+    "jade": "*",
+    "logfmt": "~0.21.0",
+    "redis": "*",
+    "q": "*"
+  }
+}
